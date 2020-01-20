@@ -7,6 +7,9 @@ prog
 # Prerequisites
 *.d
 
+# ass file
+*.s
+
 # Object files
 *.o
 *.ko
@@ -90,4 +93,4 @@ dkms.conf
 *.exe
 *.out
 *.app
-
+prog
